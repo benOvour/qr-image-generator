@@ -7,10 +7,10 @@ This is a simple Node.js application that generates a QR code image from a user-
 ## 🚀 How to Use
 
 1. **Navigate to the project directory**
-    ```bash cd qr-image-generator```
+    ```cd qr-image-generator```
   
 3. **Run the application**
-
+    ```node ./index.js```
 
 4. **Enter your link**
 - When prompted, input the link you want to convert into a QR code.
